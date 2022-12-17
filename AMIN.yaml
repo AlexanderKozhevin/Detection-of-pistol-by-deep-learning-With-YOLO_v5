@@ -1,9 +1,9 @@
 
 
 
-path: /content/drive/MyDrive/Pishtaw  # dataset root dir
-train: /content/drive/MyDrive/Pishtaw/images/train  # train images (relative to 'path') 128 images
-val: /content/drive/MyDrive/Pishtaw/images/val # val images (relative to 'path') 128 images
+path: /content/mydata/pashtaw  # dataset root dir
+train: /content/mydata/pashtaw/images/train  # train images (relative to 'path') 128 images
+val: /content/mydata/pashtaw/images/val # val images (relative to 'path') 128 images
 test:  # test images (optional)
 
 # Classes
